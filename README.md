@@ -1,4 +1,4 @@
-This is the code-part of the mini-series I published [here](!) - you can also find all parts in markdown format without paywall within the `/content` directory.
+This is the code-part of the mini-series I published [here](!) (Yet to be published officially) - you can also find all parts in markdown format without paywall within the `/content` directory.
 
 ### Code structure
 
