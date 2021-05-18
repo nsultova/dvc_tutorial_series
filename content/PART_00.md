@@ -1,6 +1,6 @@
 This is the 1/n part of my dvc tutorial series. (Obviously a work in progress)
 
-**DVC (namely Data Version Control) is basically version control expanded to the use-cases of machine learning (and similar pipelines)**
+**DVC (Data Version Control) is basically version control expanded to the use-cases of machine learning (and similar pipelines)**
 
 During the past months I started evaluating different frameworks to manage machine learning workflows for our usecase at work. DVC turned out to become one of the final candidates, so I decided to convert what I've learned on my way into a mini-series.
 
