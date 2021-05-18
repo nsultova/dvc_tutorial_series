@@ -69,7 +69,7 @@ Storing, altering, versioning and retrieving
 ### The example
 I wanted to use something somewhat official and tested, thus I decided to utilise an [example](!https://www.mlflow.org/docs/latest/tutorials-and-examples/tutorial.html) found in the tutorials section of another tool [MLflow](!https://mlflow.org/) I currently look at.
 
-It turned out that the example needed some closer examination and adjustments. As I feel its important to understand what one is working with in order to know what to look for, you can find details in [/content/EXAMPLE.md](!./content/EXAMPLE.md). 
+It turned out that the example needed some closer examination and adjustments. As I feel its important to understand what one is working with in order to know what to look for, you can find details in [/content/EXAMPLE.md](!content/EXAMPLE.md). 
 
 Let's get to work!
 
