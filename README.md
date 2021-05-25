@@ -1,4 +1,9 @@
-This is the code-part of the mini-series I published [here](!) (Yet to be published officially) - you can also find all parts in markdown format without paywall within the `/content` directory.
+This is the code-part of the mini-series I published [here](!) (Yet to be published officially) 
+
+This repository contains tutorials + code cenetring around my explorations with [DVC](!https://dvc.org)
+
+I plan to publish this on medium soon.
+
 
 ### Code structure
 
