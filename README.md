@@ -1,8 +1,6 @@
 This is the code-part of the mini-series I published [here](!) (Yet to be published officially) 
 
-This repository contains tutorials + code cenetring around my explorations with [DVC](!https://dvc.org)
-
-I plan to publish this on medium soon.
+This repository contains tutorials + code which I created based on my explorations of [DVC](!https://dvc.org)
 
 
 ### Code structure
