@@ -1,4 +1,4 @@
-/model.pkl
-/.DS_Store
-/.dvc/.DS_Store
-/wine-quality.csv
+model.pkl
+.DS_Store
+.dvc/.DS_Store
+wine-quality.csv
